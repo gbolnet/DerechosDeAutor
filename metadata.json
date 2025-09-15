@@ -1,0 +1,5 @@
+{
+  "name": "Calcular los derechos de autor.",
+  "description": "An application to calculate author royalties by processing CSV files of authors, books, and sales. It validates the data, aggregates sales, calculates earnings with retentions, and prepares printable reports for each author.",
+  "requestFramePermissions": []
+}
